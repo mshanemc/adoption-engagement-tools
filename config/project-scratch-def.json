@@ -2,6 +2,12 @@
   "orgName": "adoption-engagement-tools",
   "adminEmail": "platformpmm@mailinator.com",
   "edition": "Developer",
+  "features": [
+    "ServiceCloud",
+    "ServiceUser",
+    "LightningSalesConsole",
+    "LightningServiceConsole"
+  ],
   "settings": {
     "orgPreferenceSettings": {
       "networksEnabled": false,
